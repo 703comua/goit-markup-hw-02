@@ -192,7 +192,9 @@ ul {
 .footer {
 	background-color: #2e2f42;
 }
-
+.logo-footer__span {
+	color: #F4F4FD; 
+}
 .footer__body {
 	color: #F4F4FD;
 	line-height: 1.5;
