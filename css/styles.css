@@ -49,7 +49,7 @@ ul {
 	color: #2E2F42;
 }
 
-.nav__link:hover {
+.nav__link:hover, .nav__link:focus {
 	color: #404BBF;
 }
 
@@ -68,7 +68,7 @@ ul {
 	color: #434455;
 }
 
-.address__link:hover {
+.address__link:hover, .address__link:focus {
 	color: #404BBF;
 }
 
@@ -93,9 +93,10 @@ ul {
 	font-weight: 500;
 	line-height: 150%;
 	letter-spacing: 0.04em;
+	cursor: pointer;
 }
 
-.solutions__btn:hover {
+.solutions__btn:hover, .solutions__btn:focus {
 	background: #404BBF;
 }
 
