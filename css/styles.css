@@ -109,7 +109,7 @@ ul {
 /*--- advantages ---*/
 /*------------------*/
 .advantages__title {
-	letter-spacing: 0.02em
+	letter-spacing: 0.02em;
 }
 
 .advantages__list {}
