@@ -88,6 +88,7 @@ ul {
 	font-size: 56px;
 	font-weight: 700;
 	line-height: 1.07;
+	letter-spacing: 0.02em
 }
 
 .solutions__btn {
@@ -107,7 +108,9 @@ ul {
 /*------------------*/
 /*--- advantages ---*/
 /*------------------*/
-.advantages__title {}
+.advantages__title {
+	letter-spacing: 0.02em
+}
 
 .advantages__list {}
 
@@ -160,7 +163,7 @@ ul {
 
 .item-team__body {
 	text-align: center;
-	line-height: 1.5%;
+	line-height: 1.5;
 }
 
 /*-----------------*/
@@ -168,7 +171,9 @@ ul {
 /*-----------------*/
 .portfolio {}
 
-.portfolio__title {}
+.portfolio__title {
+	letter-spacing: 0.02em;
+}
 
 .portfolio__list {}
 
