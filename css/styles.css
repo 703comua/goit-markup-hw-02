@@ -108,9 +108,7 @@ ul {
 /*------------------*/
 /*--- advantages ---*/
 /*------------------*/
-.advantages__title {
-	letter-spacing: 0.02em;
-}
+.advantages__title {}
 
 .advantages__list {}
 
@@ -197,9 +195,11 @@ ul {
 .footer {
 	background-color: #2e2f42;
 }
+
 .logo-footer__span {
-	color: #F4F4FD; 
+	color: #F4F4FD;
 }
+
 .footer__body {
 	color: #F4F4FD;
 	line-height: 1.5;
